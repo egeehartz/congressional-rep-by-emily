@@ -16,7 +16,13 @@ height: 229px;
 width: 169px;
 
 }
-h2 {
-    text-align: center;
-    color: navy;
+.bottom-content {
+    display: flex;
+    justify-content: space-evenly;
+}
+.committees {
+    border:3px dotted royalblue;
+}
+.legislation-links {
+    border:3px dotted lightpink;
 }
